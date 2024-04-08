@@ -1,6 +1,6 @@
-# Projeto NLW Unit React Native
+# Projeto NLW Unite React Native
 
-Aplicação Desenvolvida durante o evento NLW Unit 
+Aplicação Desenvolvida durante o evento NLW Unite 
 
 ## Funcionalidades
 - Registrar-se para um evento
